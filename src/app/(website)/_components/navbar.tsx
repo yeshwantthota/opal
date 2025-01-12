@@ -26,7 +26,7 @@ const LandingPageNavbar = (props: Props) => {
             <User fill='#000' />
             Login</Button>
         </Link>
-        LandingPageNavbar</div>
+        </div>
   )
 }
 
